@@ -8,7 +8,7 @@ Pages:
 - Blog
 - Socials
 - Call to Action Button
-- 
+
 ## Quickstart
 
 ### Prerequisites
